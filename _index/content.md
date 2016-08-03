@@ -1,12 +1,12 @@
 ---
 profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+name: "Cynthia Schwarz"
+title: "Business Analyist"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Cynthia Schwarz is a Business Analyst with 8 years experience in library information technology and software development.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Her accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
 
 Adrian is available for projects on a case by case basis. Some of the services he provides include:
 
